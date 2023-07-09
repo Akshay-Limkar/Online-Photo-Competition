@@ -1,3 +1,3 @@
-# photo-competition
-# NAME : -
-# Akshay Sakaram Limkar
+# online-photo-competition
+# Owner : - Akshay Sakaram Limkar
+
